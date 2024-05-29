@@ -2,6 +2,10 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+![image](https://github.com/jordypereira/exercise-periodic-table-view/assets/14983205/92451d06-f509-421a-8af5-1d73f9d1d9dc)
+
+
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
