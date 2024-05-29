@@ -30,7 +30,8 @@ defineProps<Props>();
   cursor: pointer;
 
   display: grid;
-  justify-content: center;
+  gap: 0.2rem;
+  justify-content: space-around;
   place-items: center;
 
   grid-template-areas:
