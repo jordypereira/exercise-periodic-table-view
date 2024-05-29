@@ -2,7 +2,8 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-![image](https://github.com/jordypereira/exercise-periodic-table-view/assets/14983205/d49ce142-e0f5-4cab-94a8-038e50cef6f7)
+![image](https://github.com/jordypereira/exercise-periodic-table-view/assets/14983205/92451d06-f509-421a-8af5-1d73f9d1d9dc)
+
 
 
 ## Recommended IDE Setup
